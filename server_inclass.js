@@ -4,10 +4,10 @@
 // };
 // console.log(addNum(500));
 //--------------------------------------------------------------------------
-//commonjs
+//commonjs Syntax:
 // const express = require("express");
 
-//module:
+//express module:
 import express from "express";
 
 //import fs module

@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node script.js",
-    "dev": "nodemon script.js"
+    "start": "node server_inclass.js",
+    "dev": "nodemon server_inclass.js"
   },
   "author": "",
   "license": "ISC",
